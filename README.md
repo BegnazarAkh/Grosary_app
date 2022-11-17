@@ -13,3 +13,6 @@ TECH STACK:<br />
 Python <br />
 Flask <br />
 Html/CSS/JS
+
+
+![grocery](https://user-images.githubusercontent.com/81948108/202390824-5721e983-62a8-4f0f-ae9e-09b45fc4536a.jpg)
