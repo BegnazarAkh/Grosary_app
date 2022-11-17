@@ -1,15 +1,15 @@
 # Grosary_app
 It is one of my projects that was made by learning online resources. In this project, I used Python&amp;Flask, MySql and HTML/CSS/JS . It is simple grocery store that you can manage products, make new orders. I used GET, POST, DELETE requests
 
-FEATURES:
+FEATURES: <br />
 
-Add Product
-Calculate Total Price
-Search Product
+Add Product <br/>
+Calculate Total Price <br />
+Search Product <br />
 
 
-Tech Stack:
+TECH STACK:<br />
 
-Python
-Flask
+Python <br />
+Flask <br />
 Html/CSS/JS
